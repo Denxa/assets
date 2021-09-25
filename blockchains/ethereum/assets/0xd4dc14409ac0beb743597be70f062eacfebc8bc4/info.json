@@ -1,0 +1,11 @@
+{
+    "name": "Next Innovation",
+    "symbol": "NIN",
+    "type": "ERC20",
+    "decimals": 6,
+    "description": "A project aiming to motivate forward thinkers who are willing to change the way people interact with crypto.",
+    "website": "https://exatoshi.com",
+    "explorer": "https://etherscan.io/token/0xD4dc14409aC0beb743597Be70f062eACfeBC8bC4",
+    "status": "active",
+    "id": "0xD4dc14409aC0beb743597Be70f062eACfeBC8bC4"
+}
